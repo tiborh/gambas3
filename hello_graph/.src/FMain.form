@@ -1,0 +1,16 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,47,31)
+  Font = Font["Sans Serif"]
+  Foreground = Color.Black
+  { btn1 Button
+    MoveScaled(15.4444,22,16,4)
+    Text = ("Hello")
+  }
+  { label1 Label
+    MoveScaled(3,2,38,13)
+    ToolTip = ("just a text")
+    Text = ("A Label Text")
+  }
+}

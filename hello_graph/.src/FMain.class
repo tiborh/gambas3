@@ -1,0 +1,8 @@
+' Gambas class file
+
+
+Public Sub btn1_Click()
+
+  Message("Hello World!")
+
+End

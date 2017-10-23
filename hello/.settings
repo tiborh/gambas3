@@ -1,0 +1,11 @@
+[Breakpoints]
+Count=0
+
+[Executable]
+Path="hello.gambas"
+
+[OpenFile]
+Active=1
+File[1]=".src/Main.module:0.7"
+Count=1
+
